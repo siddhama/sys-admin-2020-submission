@@ -12,4 +12,4 @@ Here I've briefly explained the steps. If you wish you can directly run [VPNSetu
 7. You will also get commands to enable or disable VPN.
 8. On enabling you can check your IP address over DuckDuckGo or other websites over internet. 
 
-*Note that VPN is configured to show your physical address to Mumbai, Maharashtra.*
+*Note that VPN is configured to show your geographical location to Mumbai, Maharashtra.*
